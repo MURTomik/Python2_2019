@@ -1,3 +1,5 @@
+#1. Написать функцию получения IATA-кода города из его названия, используя API Aviasales.
+
 import requests
 import json
 
